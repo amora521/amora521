@@ -5,10 +5,15 @@
 Apenas uma pequena criosa, com o sonho de conhecer o mundo.
 
 - 🔭 Atualmente estou trabalhando em um projetinho pessoal para um game indie de terror.
-- 🌱 Atualmente estou estudando sobre desenvolvimento web.
+- 🌱 Atualmente estou estudando sobre desenvolvimento web e desenvolvimento de jogos na Unreal.
 - ⚡ Curiosidades: Sou extremamente apaixonada em todos os tipos de animações.
 - 🌐 Idiomas em estudo: 
-![image](https://user-images.githubusercontent.com/107015059/216863499-ae926860-4d6a-4b69-a993-667af7e179d7.png)
+
+![image](https://user-images.githubusercontent.com/107015059/216865351-ce2eb426-04a5-4a63-975a-38d84b9d5c74.png)
+![Captura de tela 2023-02-05 225939](https://user-images.githubusercontent.com/107015059/216865368-3e6ccd83-9f20-4b93-ac3d-1e341ea50155.png)
+![Captura de tela 2023-02-05 225137](https://user-images.githubusercontent.com/107015059/216865374-0f725838-c070-439f-ace5-6170db842c21.png)
+![image](https://user-images.githubusercontent.com/107015059/216865545-70fafe3e-8d0a-4b54-9627-f2f9ef6ba0be.png)
+
 
 
 
@@ -20,6 +25,7 @@ Apenas uma pequena criosa, com o sonho de conhecer o mundo.
 
 
 
+# 
 ![image](https://user-images.githubusercontent.com/107015059/216854324-23341254-ea31-4c2e-bbc0-55315fc1dcfd.png)
 
 
